@@ -1,0 +1,6 @@
+{
+  "name": "TENLUMA",
+  "description": "Where Your Words Become Jewelry. A luxury digital consultation experience that interprets raw human stories into manufacturable vertical modular bracelets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
